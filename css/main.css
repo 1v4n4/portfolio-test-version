@@ -1,0 +1,110 @@
+.link-unstyled {
+  color: whitesmoke;
+  text-decoration: none;
+}
+
+body {
+  background: #191765;
+  font-family: Roboto;
+  font-style: normal;
+  color: whitesmoke;
+}
+
+.name-header {
+  font-size: 24px;
+  font-weight: 600;  
+  line-height: 20px;
+  letter-spacing: 0.5em;  
+}
+
+header {
+  background: #191765;
+  font-size: 22px;  
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 0.2em;
+  text-align: center;  
+}
+
+h1 { 
+  margin-top: 500px; 
+  font-size: 37px;
+  font-weight: 700;
+  line-height: 72px;
+  letter-spacing: 0.3700000047683716px;
+  color: #9390FF
+}
+
+h3 {  
+  font-size: 30px;
+  font-weight: 500;
+  line-height: 44px;
+}
+
+.intro {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 28px;
+}
+
+li {
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.bluet {
+  color: #9390FF
+}
+
+.work {
+  font-size: 20px;
+}
+h2 {
+   
+  font-size: 37px;
+  font-weight: 500;
+  line-height: 72px;
+  letter-spacing: 0.2700000047683716px;
+  color: #9390FF
+}
+
+.code_img {
+  width: 100%;
+}
+
+.languages {
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+}
+
+.email {
+  color: #9390FF;
+  font-size: 22px;  
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 0.2em;
+  text-align: center;
+}
+
+@media (min-width: 768px) {
+  
+  
+}
+
+@media (min-width: 1024px) {
+  
+  .headline {
+    font-size: 90px;
+    font-weight: 700;
+    line-height: 105px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #9390FF;
+
+  }
+
+}
