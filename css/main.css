@@ -28,8 +28,6 @@ header {
 
 .main-pic {
   margin-top: 100px;
-  margin-left: 30px;
-  margin-right: 30px;
 }
 
 h1 { 
@@ -74,10 +72,6 @@ h2 {
   color: #9390FF
 }
 
-.code_img {
-  width: 100%;
-}
-
 .languages {
   font-family: Inter;
   font-size: 18px;
@@ -104,6 +98,15 @@ font-family: Arial, Helvetica, sans-serif;
 font-style: italic;
 font-stretch: narrower;
 color: #191765;
+}
+
+ .bio-pic {  
+  margin-left: 30px;
+  margin-right: 30px;
+} 
+
+.bio-txt {
+  line-height: 20px;
 }
 
 @media (min-width: 768px) {
