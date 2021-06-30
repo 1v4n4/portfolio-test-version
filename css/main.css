@@ -180,31 +180,23 @@ color: #191765;
     margin-right: 30px;
   }
 
-  .decoration1 {
-    width: 184px;
-    height: 184px;
-    left: 89px;
-    top: 237px;
-    filter: blur(50px);
-    z-index: -1;
-  }
 
   .decoration2 {
-    width: 226px;
-    height: 226px;
-    right: 143px;
-    top: 546px;
+    width: 176px;
+    height: 176px;
+    right: 43px;
+    top: 946px;
     filter: blur(50px);
   }
 
-  .decoration3 (
+  .decoration3 {
     width: 57.53px;
     height: 700.92px;
     left: -132px;
     top: 1479.12px;
     filter: blur(50px);
     transform: rotate(-36.38deg);
-  )
+}
 
   .decoration4 {
     width: 108px;
@@ -284,20 +276,20 @@ color: #191765;
     filter: blur(50px);
   }
 
-  .decoration3 (
+  .decoration3 {
     width: 57.53px;
     height: 700.92px;
-    left: -132px;
+    left: 0;
     top: 1479.12px;
     filter: blur(50px);
     transform: rotate(-36.38deg);
-  )
+  }
 
   .decoration4 {
     width: 108px;
     height: 402px;
     left: 1513.28px;
-    top: 2257.74px;
+    top: 2457.74px;
     filter: blur(50px);
     transform: matrix(-0.84, -0.54, -0.54, 0.84, 0, 0);
   }
@@ -306,15 +298,15 @@ color: #191765;
     width: 308px;
     height: 155px;
     left: -41px;
-    top: 2848px;
+    top: 3748px;
     filter: blur(50px);
   }
 
   .decoration6 {
     width: 246.19px;
     height: 916.38px;
-    left: 1090.3px;
-    top: 2934px;
+    left: 1290.3px;
+    top: 4134px;
     filter: blur(50px);
     transform: matrix(-0.26, 0.97, 0.97, 0.26, 0, 0);
   }
