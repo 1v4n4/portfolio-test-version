@@ -109,6 +109,14 @@ color: #191765;
   line-height: 20px;
 }
 
+.blub {
+  background: #191765;
+}
+
+.lite-blub {
+  background: #9390FF
+}
+
 @media (min-width: 768px) {
   .main-pic {
     width: 70%;
