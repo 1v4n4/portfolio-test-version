@@ -1,40 +1,49 @@
 # Portfolio
-This website is my portfolio, displaying few recent projects, my short biography, and contacts
+
+This website is my portfolio, displaying few recent projects, short biography, and contacts.
 
 ## Built With
-HTML, CSS and Bootstrap
 
-Live Demo
-Live Demo Link
+HTML, CSS and Bootstrap.
 
-Getting Started
+## Link
+
+[1v4n4](https://1v4n4.github.io/portfolio/)
+
+## Getting Started
 To get a local copy up and running follow these simple example steps.
 
-Setup
-Download this GitHub Repo and go the index.html file.
+### Setup
 
-Install
+Clone this GitHub Repo (`https://github.com/1v4n4/portfolio.git`) and go the index.html file.
+
+### Install
+
 Set up liveserver as an extension in your VS Code.
 
-Usage
-Right click and open the index.html in your browser to view
+### Usage
 
-Author
-bust_in_silhouette Ivana Novakovic-Lekovic
+Right click and open the index.html in your browser.
 
-GitHub: @githubhandle
-Twitter: @twitterhandle
-LinkedIn: LinkedIn
-handshake Contributing
+## Author
+
+👤 **Ivana Novaković-Leković**
+
+- GitHub: [@githubhandle](https://github.com/1v4n4)
+- Twitter: [@twitterhandle](https://twitter.com/codeIv1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/1v4n4/)
+
+
+## Contributing
+
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the [issues page](https://github.com/1v4n4/portfolio/issues).
 
-Show your support
+## Show your support
+
 Give a star if you like this project!
 
-Credits
-This project is based on design by Mathew Njuguna, Sam Achola and Kevin Mutuaand for Patashule.
+## License
 
-memo License
-This project is MIT licensed. This project is MIT licensed.
+[MIT](https://en.wikipedia.org/wiki/MIT_License)
